@@ -1,7 +1,7 @@
-= git-lfs-migrate(1)
+#*Raen123= git-lfs-migrate(1)
 
-== NAME
-
+== NAMERaen111
+raenkooper38@gmail.com
 git-lfs-migrate - Migrate history to or from Git LFS
 
 == SYNOPSIS
